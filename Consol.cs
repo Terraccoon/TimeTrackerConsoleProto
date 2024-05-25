@@ -1,6 +1,6 @@
 ﻿namespace TimeTrackerConsoleProto
 {
-    internal class Program
+    internal class Consol
     {
         static void Main(string[] args)
         {

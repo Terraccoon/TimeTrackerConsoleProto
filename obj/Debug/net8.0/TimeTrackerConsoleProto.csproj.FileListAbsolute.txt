@@ -1,0 +1,15 @@
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\bin\Debug\net8.0\TimeTrackerConsoleProto.exe
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\bin\Debug\net8.0\TimeTrackerConsoleProto.deps.json
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\bin\Debug\net8.0\TimeTrackerConsoleProto.runtimeconfig.json
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\bin\Debug\net8.0\TimeTrackerConsoleProto.dll
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\bin\Debug\net8.0\TimeTrackerConsoleProto.pdb
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.AssemblyInfoInputs.cache
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.AssemblyInfo.cs
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.csproj.CoreCompileInputs.cache
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.sourcelink.json
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.dll
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\refint\TimeTrackerConsoleProto.dll
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.pdb
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\TimeTrackerConsoleProto.genruntimeconfig.cache
+C:\Users\akmuc\Desktop\Coding\Projects\TimeTrackerConsoleProto\obj\Debug\net8.0\ref\TimeTrackerConsoleProto.dll

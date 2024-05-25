@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|c:\\users\\akmuc\\desktop\\coding\\projects\\timetrackerconsoleproto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|c:\\users\\akmuc\\desktop\\coding\\projects\\timetrackerconsoleproto\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|solutionrelative:savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|c:\\users\\akmuc\\desktop\\coding\\projects\\timetrackerconsoleproto\\consol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|solutionrelative:consol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|c:\\users\\akmuc\\desktop\\coding\\projects\\timetrackerconsoleproto\\timerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5911010-E00E-492D-8E58-6931E09B3F4C}|TimeTrackerConsoleProto.csproj|solutionrelative:timerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\SaveData.cs",
+              "RelativeDocumentMoniker": "SaveData.cs",
+              "ToolTip": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\SaveData.cs",
+              "RelativeToolTip": "SaveData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:02:05.838Z",
+              "WhenOpened": "2024-05-24T05:05:11.801Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timerlogic.cs",
+              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\Timerlogic.cs",
+              "RelativeDocumentMoniker": "Timerlogic.cs",
+              "ToolTip": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\Timerlogic.cs",
+              "RelativeToolTip": "Timerlogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:34:10.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consol.cs",
+              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\Consol.cs",
+              "RelativeDocumentMoniker": "Consol.cs",
+              "ToolTip": "C:\\Users\\akmuc\\Desktop\\Coding\\Projects\\TimeTrackerConsoleProto\\Consol.cs",
+              "RelativeToolTip": "Consol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:02:05.838Z",
+              "EditorCaption": ""
             }
           ]
         }
