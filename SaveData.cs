@@ -8,5 +8,6 @@ namespace TimeTrackerConsoleProto
 {
     internal class SaveData
     {
+        // List of Timers
     }
 }
