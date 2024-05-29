@@ -11,11 +11,14 @@ namespace TimeTrackerConsoleProto
         static void Main(string[] args)
         {
             // Program start
-            loadTimerData();
-            logicMenu();
+            Logic.Instance.fillList();
+            SaveData.SaveInFile();
 
+            //loadTimerData();
+            //logicMenu();
 
         }
+        
 
         private static void loadTimerData()
         {
