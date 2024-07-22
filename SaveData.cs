@@ -13,9 +13,9 @@ namespace TimeTrackerConsoleProto
 
             if (FilePath != null)
             {
-                XmlSerializer serializer = new XmlSerializer(typeof(List<CTimer>));
-                serializer.Serialize(new FileStream(FilePath, FileMode.Create), "TimeList");
-                return true;
+                //XmlSerializer serializer = new XmlSerializer(typeof(List<CTimer>));
+                //serializer.Serialize(new FileStream(FilePath, FileMode.Create), "TimeList");
+                //return true;
             }
             return false;
         }

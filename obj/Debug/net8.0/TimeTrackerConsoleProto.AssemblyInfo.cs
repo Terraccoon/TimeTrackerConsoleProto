@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeTrackerConsoleProto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa148c72d10f3b9d2325ee59974b2c34b37625d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab9810e30e694023b7b43af940ef5d1d06dd806")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeTrackerConsoleProto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeTrackerConsoleProto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

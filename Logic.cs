@@ -11,21 +11,25 @@ namespace TimeTrackerConsoleProto
     {
         private static Logic _instance;
 
-        private Logic() { }
+        private Logic() 
+        { 
+        
+        }
 
         public static Logic Instance => _instance ??= new Logic();
         
+        // Maybe a Catigory carries a list of Topics and i just make a List of Catigorys
+        //public List<CTimer> TimerList = new List<CTimer>();
 
-        public List<CTimer> TimerList = new List<CTimer>();
+        public List<CCatigory> Cats = new List<CCatigory>();
 
-
-        public void fillList()
+        public void addNewCat(string Name)
         {
-            CTimer Time1 = new CTimer("TestTimer1");
-            CTimer Time2 = new CTimer("TestTimer2");
-            TimerList.Add(Time1);
-            TimerList.Add(Time2);
+            Cats.Add()
+
+
         }
+        
 
 
 
